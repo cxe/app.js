@@ -1,0 +1,19 @@
+{
+  "name": "@cxe/app.js",
+  "version": "0.1.0",
+  "description": "NodeJS Application Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxe/app.js.git"
+  },
+  "author": "cxe.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxe/app.js/issues"
+  },
+  "homepage": "https://github.com/cxe/app.js#readme"
+}
